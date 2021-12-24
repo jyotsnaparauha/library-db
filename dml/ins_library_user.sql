@@ -1,0 +1,1 @@
+insert into library_user(username, password, email_id) values ('jyotsna','parauha','tiwari.jyotsna45@gmail.com');
